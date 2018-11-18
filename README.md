@@ -1,2 +1,0 @@
-# student
-Just another repository
