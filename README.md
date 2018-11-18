@@ -1,2 +1,1 @@
-# student
-Just another repository
+This is to view other file at one place.
